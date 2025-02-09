@@ -1,0 +1,37 @@
+[
+	{"prompt": "Choose a flavor of ice cream", "env_var": "ICE_CREAM", "options": [
+		{"name": "Chocolate", "value": "chocolate"},
+		{"name": "Vanilla", "value": "vanilla"},
+		{"name": "Fish", "value": "fish"}
+	]},
+	{"prompt": "Choose a currency", "env_var": "CURRENCY", "options": [
+		{"value": "usd", "name": "$ US Dollar"},
+		{"value": "eur", "name": "€ Euro"},
+		{"value": "gbp", "name": "£ British Pound"},
+		{"value": "jpy", "name": "¥ Japanese Yen"},
+		{"value": "cny", "name": "¥ Chinese Yuan"},
+		{"value": "krw", "name": "₩ Korean Won"},
+		{"value": "inr", "name": "₹ Indian Rupee"},
+		{"value": "rub", "name": "₽ Russian Ruble"},
+		{"value": "brl", "name": "R$ Brazilian Real"},
+		{"value": "zar", "name": "R South African Rand"},
+		{"value": "aed", "name": "AED UAE Dirham"},
+		{"value": "aud", "name": "A$ Australian Dollar"},
+		{"value": "cad", "name": "C$ Canadian Dollar"},
+		{"value": "chf", "name": "Fr Swiss Franc"},
+		{"value": "hkd", "name": "HK$ Hong Kong Dollar"},
+		{"value": "sgd", "name": "S$ Singapore Dollar"},
+		{"value": "thb", "name": "฿ Thai Baht"},
+		{"value": "try", "name": "₺ Turkish Lira"},
+		{"value": "mxn", "name": "Mex$ Mexican Peso"},
+		{"value": "php", "name": "₱ Philippine Peso"},
+		{"value": "pln", "name": "zł Polish Złoty"},
+		{"value": "sek", "name": "kr Swedish Krona"},
+		{"value": "nzd", "name": "NZ$ New Zealand Dollar"},
+		{"value": "dkk", "name": "kr. Danish Krone"},
+		{"value": "idr", "name": "Rp Indonesian Rupiah"},
+		{"value": "ils", "name": "₪ Israeli New Shekel"},
+		{"value": "vnd", "name": "₫ Vietnamese Dong"},
+		{"value": "myr", "name": "RM Malaysian Ringgit"}
+	]}
+]
